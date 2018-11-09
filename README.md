@@ -1,10 +1,10 @@
 # HALO! Ini file latihan Mark Down
 
-Selamat Datang di acara Talkshoe bersama kucing **_sans_** dan __*gans*__.
+Selamat Datang di acara Talkshow bersama kucing **_sans_** dan __*gans*__.
 
 ### __Acaranya apa aja??__
 
-### Hal apa acara yang disukai kucing **_sans_**?
+### Hal apa yang disukai kucing **_sans_**?
 
 - makan 
 - tidur
@@ -28,6 +28,12 @@ console.log(x);
 
 Inline `Math.pow(2,2)`
 
+## List tamu undangan
+Nama | Usia | Kota
+-----|------|-----
+Andi | 27 thn|Bandung
+Merry| 25 thn | Jakarta
 
 
 
+[![Video kucing](https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Doraemon_movie_2017.jpeg/220px-Doraemon_movie_2017.jpeg)](https://www.youtube.com/watch?v=RY8KkmVeTyU)
